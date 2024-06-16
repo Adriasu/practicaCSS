@@ -1,1 +1,14 @@
+body{
+  background-color: lightskyblue;
+}
 
+section{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+img{
+  height: 90px;
+  border-radius: 50%;
+}
